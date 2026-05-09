@@ -153,7 +153,7 @@ AI & ML Engineer | NLP Specialist
 ## 🔗 Related Projects
 
 - [Urdu Text Summarization using mT5-base]
-(https://github.com/AbdurrehmanM018/urdu-text-summarization-mt5)
+(https://github.com/Abdurrehman-ai-developer/urdu-text-summarization-mt5)
 
 ---
 
