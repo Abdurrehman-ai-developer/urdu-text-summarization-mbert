@@ -146,7 +146,7 @@ The fine-tuned model weights are available on HuggingFace:
 **Abdur Rehman**
 AI & ML Engineer | NLP Specialist
 7+ Years Experience in AI Development
-[Upwork Profile](https://www.upwork.com/freelancers/~01aaa1b5dbb9b181ee?mp_source=share)
+[Upwork Profile](https://www.upwork.com/freelancers/abdurrehmanaideveloper?mp_source=share)
 
 ---
 
